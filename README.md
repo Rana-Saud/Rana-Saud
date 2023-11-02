@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rana-saud&show_icons=true&locale=en" alt="rana-saud" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rana-saud&" alt="rana-saud" /></p>
+  ![Snake animation](https://github.com/Rana-Saud/Rana-Saud/blob/output/github-contribution-grid-snake.svg)
