@@ -1,4 +1,5 @@
 ![MasterHead](https://camo.githubusercontent.com/9599c3b064e38680f68e77052e104b45d51a5435645794c447b1c53c8816747b/68747470733a2f2f7777772e736576656e73746172776562736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f7468656d65732f736576656e737461722f696d672f62616e6e65722d62672e676966)
+
 <h1 align="center">Hi 👋, I'm Rana Saud</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/3004204/file/original-a03b5e672824cdc769fe1c0ce574d6d8.gif"/>
@@ -31,4 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rana-saud&show_icons=true&locale=en" alt="rana-saud" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rana-saud&" alt="rana-saud" /></p>
-  ![Snake animation](https://github.com/Rana-Saud/Rana-Saud/blob/output/github-contribution-grid-snake.svg)
+
