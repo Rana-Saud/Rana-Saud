@@ -1,7 +1,7 @@
 ![MasterHead](https://skwebdesigner.co.in/wp-content/uploads/2022/04/banner-bg.gif)
 
 <h1 align="center">Hi 👋, I'm Rana Saud</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A Passionate Frontend Developer From Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/3004204/file/original-a03b5e672824cdc769fe1c0ce574d6d8.gif"/>
 
 - 🔭 I’m currently working on **Track Back**
