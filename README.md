@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Rana Saud</h1>
 <h3 align="center">A Passionate Frontend Developer From Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/3004204/file/original-a03b5e672824cdc769fe1c0ce574d6d8.gif"/>
-
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/3004204/file/original-a03b5e672824cdc769fe1c0ce574d6d8.gif"/> -->
+<a href="https://app.daily.dev/ranasaud" rel="nofollow"><img align="right" src="https://camo.githubusercontent.com/f2662d51dc65c679714fb6504ded9376176d708e665aff827fa034f8c50148a5/68747470733a2f2f6170692e6461696c792e6465762f64657663617264732f76322f3537646d484959324a64453670775a6d684476644b2e706e673f747970653d64656661756c7426723d7a6d71" width="356" alt="Rana Saud's Dev Card" data-canonical-src="https://api.daily.dev/devcards/v2/57dmHIY2JdE6pwZmhDvdK.png?type=default&amp;r=zmq" style="max-width: 100%;"></a>
 - 🔭 I’m currently working on **Track Back**
 
 - 🌱 I’m currently learning **Angular, Front-End Development**
