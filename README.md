@@ -30,11 +30,13 @@
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,svg,pug,jquery,&perline=12)](https://portfolio-2ip.pages.dev/)
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=ts,angular,express,mongodb,nodejs,reactivex,mysql,laravel,&perline=12)](https://portfolio-2ip.pages.dev/)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,express,mongodb,nodejs,reactivex,&perline=12)](https://portfolio-2ip.pages.dev/)
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=firebase,postman,git,github,bitbucket,vscode,sublime,windows,&perline=12)](https://portfolio-2ip.pages.dev/)
+[![My Skills](https://skillicons.dev/icons?i=mysql,laravel,firebase,postman,git,github,bitbucket,&perline=12)](https://portfolio-2ip.pages.dev/)
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=,powershell,md,npm,stackoverflow,devto,htmx,&perline=12)](https://portfolio-2ip.pages.dev/)
+[![My Skills](https://skillicons.dev/icons?i=vscode,sublime,windows,powershell,md,npm,stackoverflow,&perline=12)](https://portfolio-2ip.pages.dev/)
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=devto,htmx,&perline=12)](https://portfolio-2ip.pages.dev/)
 
 <hr/>
 <br/>
