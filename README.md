@@ -28,7 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,svg,pug,jquery,js,&perline=12)](https://portfolio-2ip.pages.dev/)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,svg,pug,jquery,&perline=12)](https://portfolio-2ip.pages.dev/)
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=ts,angular,express,mongodb,nodejs,reactivex,mysql,laravel,&perline=12)](https://portfolio-2ip.pages.dev/)
 <br/>
