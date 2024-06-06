@@ -69,7 +69,14 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rana-Saud/Rana-Saud/output/github-contribution-grid-snake.svg">
 </picture>
 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
-### 🚢 &nbsp;<a href="#" class="scrollUpButton">Let's Sail Again</a>
-<b> <i align="left">Hey, you have reached the bottom of my profile. If you have loved my works, make sure to star them and contribute to the projects or fork them if you want to re-use them. Also, you can visit my socials and share some love there. I wish you an amazing day ahead and till then keep learning and keep exploring.</i> </b>
-<img src ="https://github.com/Swpn0neel/Swpn0neel/blob/main/assests/bottom.svg">
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=There%20is%20only%20one%20thing%20that%20makes%20a%20dream%20impossible%20to%20achieve%3A%20the%20fear%20of%20failure.&theme=dark&bg_color=0D1117&author_color=ff0095&border_color=7F3FBF">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100&section=footer"/>
+</p>
