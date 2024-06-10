@@ -55,19 +55,21 @@
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/Rana-Saud"><img alt="Rana-Saud Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rana-Saud&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Rana-Saud"><img alt="Rana-Saud Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rana-Saud&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<!-- TODO-IST:START -->
+<p align="center"> 
+    <a href="https://github.com/Rana-Saud"><img alt="Rana-Saud Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rana-Saud&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/Rana-Saud" style="width: 50%"><img alt="Rana-Saud Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana-Saud&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+</p>
+<!-- TODO-IST:END -->
 
 <h3 align="left">My Contribute Graph:</h3>
-
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rana-Saud/Rana-Saud/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rana-Saud/Rana-Saud/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rana-Saud/Rana-Saud/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rana-Saud/Rana-Saud/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
+</p>
 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
@@ -78,5 +80,5 @@
 <!--ENDS_HERE_QUOTE_CARD-->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100&section=footer&theme=ambient_gradient" width="100%"/>
 </p>
