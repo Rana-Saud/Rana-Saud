@@ -57,7 +57,7 @@
 
 <!-- TODO-IST:START -->
 <p align="center"> 
-    <a href="https://github.com/Rana-Saud"><img alt="Rana-Saud Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rana-Saud&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/Rana-Saud"><img alt="Rana-Saud Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rana-Saud&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&rank_icon=github" height="192px"/></a>
   <a href="https://github.com/Rana-Saud" style="width: 50%"><img alt="Rana-Saud Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana-Saud&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 </p>
 <!-- TODO-IST:END -->
