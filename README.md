@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" width="500"/>
+    <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" width="400"/>
  </p>
  
 <hr/>
@@ -59,16 +59,16 @@
 <br/>
 <hr/>
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" style="display:inline;">
 <p align="center">
   <a href="https://github.com/Rana-Saud">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rana-Saud&theme=radical&border=7F3FBF&background=0D1117" alt="Rana-Saud GitHub streak"/>
   </a>
 </p>
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%" style="display:inline;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" style="display:inline;">
 <p align="center">
   <a href="https://github.com/alsiam">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rana-Saud&theme=radical" alt="Rana-Saud GitHub Contribution"/>
